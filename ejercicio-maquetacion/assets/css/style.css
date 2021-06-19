@@ -1,0 +1,5 @@
+/* Con el asterisco (resert? creo que se llama) se aplica a todo el documento, ya no es necesario agregarlo en el index */
+* {
+    font-family:sans-serif ;
+    
+}
